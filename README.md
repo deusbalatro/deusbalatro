@@ -1,3 +1,3 @@
 # Hello World
 
-## [WikiDeck](gitea.eom.dev/WikiDeck/wikideck)
+## [WikiDeck](https://gitea.eom.dev/WikiDeck/wikideck)
